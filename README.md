@@ -1,0 +1,1 @@
+# DotNetEtwConsumer-QueryEtwSessions
